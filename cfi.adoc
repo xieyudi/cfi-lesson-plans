@@ -1,0 +1,1355 @@
+:toc:
+:toclevels: 2
+[%always]
+<<<
+
+'''
+== Area of Operation I. Fundamentals of Instructing
+
+[%always]
+<<<
+
+'''
+=== Task A. Effects of Human Behavior and Communication on the Learning Process
+
+==== Objectives
+
+The learner should develop knowledge of human behavior and effective communication, can apply that knowledge, manage associated risks, demonstrate appropriate skills, and provide effective instruction, as required in the CFI ACS.
+
+==== Elements
+
+* Definitions of Human Behavior
+* Maintaining Motivation
+* Human Needs and Motivation (Maslow’s Hierarchy of Needs)
+* Defense Mechanisms
+* Learner Emotional Reactions
+* Basic Elements of Communication (SSR)
+* Barriers to Effective Communication (COILE)
+* Developing Communication Skills (LIQIR)
+
+==== Equipments
+
+* White board and markers
+* References
+
+==== Instructor's Actions
+
+* Discuss lesson objectives
+* Present Lecture
+* Ask and Answer Questions
+* Assign homework
+
+==== Learner's Actions
+
+* Participate in discussion
+* Take notes
+* Ask and respond to questions
+
+==== Completion Standards
+
+The learner should exhibits the skill to:
+
+* Identify, assess and mitigate risk associated with:
+** Recognizing and accommodating human behavior.
+** Barriers to communication.
+* Give examples of how human behavior affects motivation and learning.
+* Describe what the instructor can do to deal with:
+** Serious abnormal emotional behavior
+** Defense mechanisms
+* Use effective communication in ground and flight instruction.
+
+==== References
+
+* Chapter 2: Human Behavior, Aviation Instructor's Handbook
+* Chapter 4: Effective Communication, Aviation Instructor's Handbook
+
+[%always]
+<<<
+
+'''
+=== Task B. Learning Process
+
+==== Objectives
+
+The learner should develop knowledge of the learning process, can apply that knowledge, manage
+associated risks, demonstrate appropriate skills, and provide effective instruction, as required in the CFI ACS.
+
+==== Elements
+
+* Learning Theory
+* Perceptions and Insight
+* Acquiring Knowledge (MUC)
+* The Laws of Learning (REEPIR)
+* Domains of Learning (CAP)
+** Cognitive (KCAASE, RUAC), Affective (ARVOC), Psychomotor
+* Characteristics of Learning (PEAM)
+* Acquiring Skill Knowledge (CAA, skill knowledge means cognitive or motor skills)
+* Types of Practice (DBL)
+* Scenario-Based Training
+* Errors (Slip vs. Mistake, Reducing Error (DRCULT))
+* Memory and Forgetting (Types of Memory sensory/STM/LTM ,Forgetting (RIFRS))
+* Retention of Learning (MRLAMP)
+* Transfer of Learning (positive transfer vs. negative transfer)
+
+==== Equipments
+
+* White board and markers
+* References
+
+==== Instructor's Actions
+
+* Discuss lesson objectives
+* Present Lecture
+* Ask and Answer Questions
+* Assign homework
+
+==== Learner's Actions
+
+* Participate in discussion
+* Take notes
+* Ask and respond to questions
+
+==== Completion Standards
+
+The learner should exhibit the skill to:
+
+* Identify, assess and mitigate risk associated with:
+** Inadequate or incomplete instruction.
+** Lack of learner motivation.
+** Recognizing and correcting learner errors.
+* Apply educational theories to ground and flight instruction.
+* Recognize and correct conditions that undermine the learning process.
+* Plan for and use techniques, including realistic distractions that teach flight students how to manage a workload
+
+==== References
+
+* Chapter 3: The Learning Process, Aviation Instructor's Handbook
+
+[%always]
+<<<
+
+'''
+=== Task C. Course Development, Lesson Plans, and Classroom Training Techniques
+
+==== Objectives
+
+The learner should develop knowledge of the teaching process, can apply that knowledge, manage associated risks, demonstrate appropriate skills, and provide effective instruction, as required in the CFI ACS.
+
+==== Elements
+
+* The Teaching Process (PPAA)
+* Essential Teaching Skills (PAMS)
+* Course of Training (curriculum, syllabus, lesson plan)
+* Preparation of a Lesson
+** Performance-Based Objectives (DCC)
+** Decision-Based Objectives (ADM, risk management)
+* Presentation of a Lesson (see Figure 5-6. Guidelines for presenting lessons, FAA-H-8083-9B)
+* Organization of Material (Lesson Introduction (AMO), Development (PKSM))
+* Training Delivery Methods (lecture, guided discussion (HICSRR), computer-assisted learning, cooperative/group learning, demonstration-performance (EDSIE), drill and practice, scenario-based training (IWDSS))
+* Problem-Based Learning (SBT, Collaborative Problem-Solving, Case Study)
+* Instruction Aids and Training Technologies (CGOS)
+
+==== Equipments
+
+* White board and markers
+* References
+
+==== Instructor's Actions
+
+* Discuss lesson objectives
+* Present Lecture
+* Ask and Answer Questions
+* Assign homework
+
+==== Learner's Actions
+
+* Participate in discussion
+* Take notes
+* Ask and respond to questions
+
+==== Completion Standards
+
+The learner should exhibit the skill to:
+
+* Identify, assess and mitigate risk associated with:
+** Selection of teaching method.
+* Prepare an instructional lesson plan using teaching methods and materials appropriate for Task and
+learner characteristics, including:
+** Aeronautical knowledge ground lesson applicable for a classroom
+** Maneuver introduction and ground lesson
+
+
+==== References
+
+* Chapter 5: The Teaching Process, Aviation Instructor's Handbook
+* Chapter 7: Planning Instructional Activity, Aviation Instructor's Handbook
+
+[%always]
+<<<
+
+'''
+=== Task D. Student Evaluation, Assessment, and Testing
+
+==== Objectives
+
+The learner should develop knowledge of valuation and testing, can apply that knowledge, manage
+associated risks, demonstrate appropriate skills, and provide effective instruction, as required in the CFI ACS.
+
+==== Elements
+* Purpose and Characteristics of Effective Assessment (FASTCOCO)
+* Traditional Assessment (aka. written test) (DRCOVU)
+* Authentic Assessment
+** Learner-Centered Assessment (RRRR)
+* Choosing an Effective Assessment Method (DLED)
+* Purpose and Types of Critiques
+* Oral Assessment (ISSISW)
+** Types of questions to avoid
+
+==== Equipments
+
+* White board and markers
+* References
+
+==== Instructor's Actions
+
+* Discuss lesson objectives
+* Present Lecture
+* Ask and Answer Questions
+* Assign homework
+
+==== Learner's Actions
+
+* Participate in discussion
+* Take notes
+* Ask and respond to questions
+
+==== Completion Standards
+
+The learner should exhibits the skill to:
+
+* Identify, assess and mitigate risk associated with:
+** Delivering an assessment.
+* Use appropriate methods and techniques to assess learner performance in ground or flight training.
+
+==== References
+
+* Chapter 6: Assessment, Aviation Instructor's Handbook
+
+[%always]
+<<<
+
+'''
+=== Task E. Elements of Effective Teaching in a Professional Environment
+
+==== Objectives
+
+The learner should develop knowledge of effects of instructor behavior on effective teaching, can apply that knowledge, manage associated risks, demonstrate appropriate skills, and provide effective instruction, as required in the CFI ACS.
+
+==== Elements
+
+* Aviation Instructor Responsibilities (HPTEM)
+** Minimizing Learner Frustration (MKAGCBA)
+* Flight Instructor Responsibilities (EPPFAPSL)
+* Flight Instructor Qualifications (see Figure 8-6. Teaching tips from veteran flight instructors, FAA-H-8083-9B)
+* Professionalism (see Figure 8-7. Guidelines for an aviation instructor., FAA-H-8083-9B)
+* Professional Development
+* Instructor's Code of Ethics
+
+==== Equipments
+
+* White board and markers
+* References
+
+==== Instructor's Actions
+
+* Discuss lesson objectives
+* Present Lecture
+* Ask and Answer Questions
+* Assign homework
+
+==== Learner's Actions
+
+* Participate in discussion
+* Take notes
+* Ask and respond to questions
+
+==== Completion Standards
+
+The learner should exhibits the skill to:
+
+* Identify, assess and mitigate risk associated with:
+** Fulfilling instructor responsibilities.
+** Exhibiting professionalism.
+* Deliver ground or flight instruction on an evaluator-assigned Task in a manner consistent with instructor responsibilities and professional characteristics as required by the CFI ACS
+
+==== References
+
+* Chapter 8: Aviation Instructor Responsibilities and Professionalism, Aviation Instructor's Handbook
+* Instructor's Code of Ethics, Chapter 5: The Teaching Process, Aviation Instructor's Handbook
+
+[%always]
+<<<
+
+'''
+=== Task F. Elements of Effective Teaching that Include Risk Management and Accident Prevention
+
+==== Objectives
+
+The learner should develop knowledge of teaching practical risk management, can apply that knowledge, manage associated risks, demonstrate appropriate skills, and provide effective instruction, as required in the CFI ACS.
+
+==== Elements
+
+* TODO
+
+==== Equipments
+
+* White board and markers
+* References
+
+==== Instructor's Actions
+
+* Discuss lesson objectives
+* Present Lecture
+* Ask and Answer Questions
+* Assign homework
+
+==== Learner's Actions
+
+* Participate in discussion
+* Take notes
+* Ask and respond to questions
+
+==== Completion Standards
+
+The learner should exhibits the skill to:
+
+* Identify, assess and mitigate risk associated with:
+** Hazards associated with providing flight instruction.
+** Obstacles to maintaining situational awareness during flight instruction.
+** Recognizing and managing hazards arising from human behavior, including hazardous attitudes.
+* Use scenario-based training (SBT) to demonstrate, teach, and assess risk management and Aeronautical Decision-Making (ADM) skills in the context of a Task specified by the CFI ACS.
+* Identify, assess, and mitigate risks commonly associated with flight instruction by maintaining:
+** Awareness and oversight of the learner’s actions, with timely and appropriate supervision, intervention, or mitigation as needed
+** Awareness of the learner’s cognitive/physiological state, with timely action to mitigate anxiety, fatigue, or other obstruction to learning
+** Overall situational awareness of the aircraft’s dynamic state, its position in space, and vigilance for unexpected events or changing circumstances that occur in the environment
+
+==== References
+
+* Chapter 10: Teaching Practical Risk Management during Flight Instruction, Aviation Instructor's Handbook
+
+[%always]
+<<<
+
+'''
+== Area of Operation II. Technical Subject Areas
+[%always]
+<<<
+
+'''
+=== Task A. Human Factors
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task B. Visual Scanning and Collision Avoidance
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task C. Runway Incursion Avoidance
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task D. Principles of Flight
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task E. Aircraft Flight Controls and Operation of Systems
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task F. Performance and Limitations
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task G. National Airspace System
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task H. Navigation Systems and Radar Services
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task I. Navigation and Cross-Country Flight Planning
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task J. 14 CFR and Publications
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task K. Endorsements and Logbook Entries
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task L. Water and Seaplane Characteristics, Seaplane Bases, Maritime Rules, and Aids to Marine Navigation (ASES, AMES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task M. Night Operations
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task N. High Altitude Operations - Supplemental Oxygen
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task O. High Altitude Operations - Pressurization
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task P. One Engine Inoperative (OEI) Performance (AMEL, AMES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+== Area of Operation III. Preflight Preparation
+[%always]
+<<<
+
+'''
+=== Task A. Pilot Qualifications
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task B. Airworthiness Requirements
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task C. Weather Information
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+== Area of Operation IV. Preflight Lesson on a Maneuver to be Performed in Flight
+=== Task A. Maneuver Lesson
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+== Area of Operation V. Preflight Procedures
+
+[%always]
+<<<
+
+'''
+=== Task A. Preflight Assessment
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task B. Flight Deck Management
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task C. Engine Starting
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task D. Taxiing, Airport Signs, and Lighting (ASEL, AMEL)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task E. Taxiing and Sailing (ASES, AMES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task F. Before Takeoff Check
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+== Area of Operation VI. Airport and Seaplane Base Operations
+[%always]
+<<<
+
+'''
+=== Task A. Communications, Light Signals, and Runway Lighting Systems
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task B. Traffic Patterns
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+== Area of Operation VII. Takeoffs, Landings, and Go-Arounds
+[%always]
+<<<
+
+'''
+=== Task A. Normal Takeoff and Climb
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task B. Normal Approach and Landing
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task C. Soft-Field Takeoff and Climb (ASEL)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task D. Soft-Field Approach and Landing (ASEL)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task E. Short-Field Takeoff and Maximum Performance Climb (ASEL, AMEL)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task F. Short-Field Approach and Landing (ASEL, AMEL)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task G. Confined Area Takeoff and Maximum Performance Climb (ASES, AMES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task H. Confined Area Approach and Landing (ASES, AMES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task I. Glassy Water Takeoff and Climb (ASES, AMES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task J. Glassy Water Approach and Landing (ASES, AMES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task K. Rough Water Takeoff and Climb (ASES, AMES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task L. Rough Water Approach and Landing (ASES, AMES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task M. Slip to a Landing (ASEL, ASES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task N. Go-Around/Rejected Landing
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task O. Power-Off 180° Accuracy Approach and Landing (ASEL, ASES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+== Area of Operation VIII. Fundamentals of Flight
+[%always]
+<<<
+
+'''
+=== Task A. Straight-and-Level Flight
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task B. Level Turns
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task C. Straight Climbs and Climbing Turns
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+
+'''
+=== Task D. Straight Descents and Descending Turns
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+== Area of Operation IX. Performance and Ground Reference Maneuvers
+[%always]
+<<<
+
+'''
+=== Task A. Steep Turns
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task B. Steep Spiral (ASEL, ASES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task C. Chandelles (ASEL, ASES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task D. Lazy Eights (ASEL, ASES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task E. Ground Reference Maneuvers
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task F. Eights on Pylons (ASEL, ASES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+== Area of Operation X. Slow flight, Stalls, and Spins
+[%always]
+<<<
+
+'''
+=== Task A. Maneuvering During Slow Flight
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task B. Demonstration of Flight Characteristics at Various Configurations and Airspeeds (ASEL and ASES)
+[%always]
+<<<
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task C. Power-Off Stalls
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task D. Power-On Stalls
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task E. Accelerated Stalls
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task F. Cross-Controlled Stall Demonstration (ASEL, ASES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task G. Elevator Trim Stall Demonstration (ASEL, ASES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task H. Secondary Stall Demonstration (ASEL, ASES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task I. Spin Awareness and Spins
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+== Area of Operation XI. Basic Instrument Maneuvers
+
+[%always]
+<<<
+
+'''
+=== Task A. Straight-and-Level Flight
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task B. Constant Airspeed Climbs
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task C. Constant Airspeed Descents
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task D. Turns to Headings
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task E. Recovery from Unusual Flight Attitudes
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+== Area of Operation XII. Emergency Operations
+[%always]
+<<<
+
+'''
+=== Task A. Emergency Descent
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task B. Emergency Approach and Landing (Simulated) (ASEL, ASES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task C. Systems and Equipment Malfunctions
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task D. Emergency Equipment and Survival Gear
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task E. Engine Failure During Takeoff Before VMC (Simulated) (AMEL, AMES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task F. Engine Failure After Liftoff (Simulated) (AMEL, AMES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task G. Approach and Landing with an Inoperative Engine (Simulated)(AMEL, AMES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+== Area of Operation XIII. Multiengine Operations
+[%always]
+<<<
+
+'''
+=== Task A. Maneuvering with One Engine Inoperative (AMEL, AMES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task B. VMC Demonstration (AMEL, AMES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task C. Demonstration of Effects of Various Airspeeds and Configurations during Engine Inoperative Performance (AMEL and AMES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+== Area of Operation XIV. Postflight Procedures
+[%always]
+<<<
+
+'''
+=== Task A. After Landing, Parking, and Securing (ASEL, AMEL)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
+
+'''
+=== Task B. Seaplane Post-Landing Procedures (ASES, AMES)
+
+==== Objectives
+==== Elements
+==== Equipments
+==== Instructor's Actions
+==== Learner's Actions
+==== Completion Standards
+[%always]
+<<<
